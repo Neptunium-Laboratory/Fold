@@ -23,14 +23,15 @@ Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient
 
 ## Features
 
-- <img src="https://cdn.simpleicons.org/speedtest/8B8FF4" width="16"/> Fast filesystem navigation
-- <img src="https://cdn.simpleicons.org/files/8B8FF4" width="16"/> Simple directory management
-- <img src="https://cdn.simpleicons.org/linktree/8B8FF4" width="16"/> Easy file and directory access
-- <img src="https://cdn.simpleicons.org/gnometerminal/8B8FF4" width="16"/> Keyboard-focused workflow
-- <img src="https://cdn.simpleicons.org/linux/8B8FF4" width="16"/> Linux-oriented experience
-- <img src="https://cdn.simpleicons.org/leaflet/8B8FF4" width="16"/> Lightweight and minimal
-- <img src="https://cdn.simpleicons.org/gitbook/8B8FF4" width="16"/> Bookmarks
-
+- <img src="https://cdn.simpleicons.org/speedtest/FFFFFF" width="16"/> Fast filesystem navigation
+- <img src="https://cdn.simpleicons.org/files/FFFFFF" width="16"/> Simple directory management
+- <img src="https://cdn.simpleicons.org/linktree/FFFFFF" width="16"/> Easy file and directory access
+- <img src="https://cdn.simpleicons.org/gnometerminal/FFFFFF" width="16"/> Keyboard-focused workflow
+- <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="16"/> Linux-oriented experience
+- <img src="https://cdn.simpleicons.org/leaflet/FFFFFF" width="16"/> Lightweight and minimal
+- <img src="https://cdn.simpleicons.org/gitbook/FFFFFF" width="16"/> Bookmarks
+- <img src="https://cdn.simpleicons.org/vim/FFFFFF" width="16"/> Vim keys
+  
 ## Themes
 
 <div align="center">
