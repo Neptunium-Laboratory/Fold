@@ -30,6 +30,19 @@ Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient
 - <img src="https://cdn.simpleicons.org/linux/8B8FF4" width="16"/> Linux-oriented experience
 - <img src="https://cdn.simpleicons.org/leaflet/8B8FF4" width="16"/> Lightweight and minimal
 
+## Themes
+
+<div align="center">
+
+![Catppuccin Mocha](https://img.shields.io/badge/Catppuccin-Mocha-cba6f7?style=for-the-badge&labelColor=1e1e2e)
+![Osaka Jade](https://img.shields.io/badge/Osaka-Jade-98c379?style=for-the-badge&labelColor=282c34)
+![Gruvbox](https://img.shields.io/badge/Gruvbox-Dark-d79921?style=for-the-badge&labelColor=282828)
+![One Dark](https://img.shields.io/badge/One-Dark-61afef?style=for-the-badge&labelColor=282c34)
+![Matugen](https://img.shields.io/badge/Matugen-Dynamic-89b4fa?style=for-the-badge&labelColor=1e1e2e)
+
+</div>
+
+
 ## Installation
 
 Installation instructions will be available once the project has a release.
