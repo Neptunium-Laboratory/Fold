@@ -29,6 +29,7 @@ Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient
 - <img src="https://cdn.simpleicons.org/gnometerminal/8B8FF4" width="16"/> Keyboard-focused workflow
 - <img src="https://cdn.simpleicons.org/linux/8B8FF4" width="16"/> Linux-oriented experience
 - <img src="https://cdn.simpleicons.org/leaflet/8B8FF4" width="16"/> Lightweight and minimal
+- <img src="https://cdn.simpleicons.org/gitbook/8B8FF4" width="16"/> Bookmarks
 
 ## Themes
 
