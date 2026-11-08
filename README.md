@@ -50,7 +50,7 @@ UI inspired by [Text Theme from Spicetify](https://github.com/spicetify/spicetif
 
 ## Installation
 
-Installation instructions will be available once the project has a release.
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="16"/> [Install from source](https://github.com/Neptunium-Laboratory/Fold/blob/main/CreatefromSource.md)
 
 ## Previews 
 > [!IMPORTANT]
