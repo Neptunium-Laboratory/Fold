@@ -7,9 +7,10 @@
 
 A lightweight, terminal-based file manager built for speed, simplicity, and efficient filesystem navigation.
 
-[![CLI](https://img.shields.io/badge/Interface-CLI-8B8FF4?style=for-the-badge&logo=gnometerminal&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Platform-Linux-8B8FF4?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)](#)
+<img src="https://img.shields.io/badge/interface-cli-262622?style=for-the-badge&logo=gnometerminal&logoColor=262622&logoSize=auto&color=e2e2d3" />
+<img src="https://img.shields.io/badge/platform-linux-262622?style=for-the-badge&logo=linux&logoColor=262622&logoSize=auto&color=e2e2d3" />
+<img src="https://img.shields.io/badge/status-in_development-262622?style=for-the-badge&logo=github&logoColor=262622&logoSize=auto&color=e2e2d3" />
+<img src="https://img.shields.io/badge/built_with-rust-262622?style=for-the-badge&logo=rust&logoColor=262622&logoSize=auto&color=e2e2d3" />
 
 </div>
 
@@ -21,6 +22,8 @@ A lightweight, terminal-based file manager built for speed, simplicity, and effi
 
 Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient, and distraction-free file management experience.
 
+UI inspired by [Text Theme from Spicetify](https://github.com/spicetify/spicetify-themes/tree/master/text)
+
 ## Features
 
 - <img src="https://cdn.simpleicons.org/speedtest/FFFFFF" width="16"/> Fast filesystem navigation
@@ -31,7 +34,8 @@ Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient
 - <img src="https://cdn.simpleicons.org/leaflet/FFFFFF" width="16"/> Lightweight and minimal
 - <img src="https://cdn.simpleicons.org/gitbook/FFFFFF" width="16"/> Bookmarks
 - <img src="https://cdn.simpleicons.org/vim/FFFFFF" width="16"/> Vim keys
-  
+(*and many more*)
+
 ## Themes
 
 <div align="center">
@@ -44,10 +48,14 @@ Built with a terminal-first philosophy, FOLD aims to provide a simple, efficient
 
 </div>
 
-
 ## Installation
 
 Installation instructions will be available once the project has a release.
+
+## Previews 
+> [!IMPORTANT]
+> In the newer releases the look of FOLD may have changed
+> and some of these previews are from release V1.0
 
 ## Usage
 
@@ -72,8 +80,6 @@ FOLD is built around one idea: file management should be simple, fast, and stay 
 
 <div align="center">
 
-**FOLD** · Fast Organized Links & Directories
-
-*Built for the terminal. Inspired by simplicity.*
+**FOLD — Built for the terminal.**
 
 </div>
