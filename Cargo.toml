@@ -1,0 +1,20 @@
+[package]
+name = "fold"
+version = "0.1.0"
+edition = "2021"
+description = "FOLD: a keyboard-first terminal file manager. Your files, in flow."
+rust-version = "1.75"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = "0.28"
+signal-hook = "0.3"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "gif", "webp", "bmp", "tiff"] }
+serde_json = "1"
+
+[dev-dependencies]
+tempfile = "3"
+
+[profile.release]
+lto = true
+strip = true
